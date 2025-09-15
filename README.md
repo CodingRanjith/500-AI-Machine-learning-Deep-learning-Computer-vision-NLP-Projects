@@ -2,7 +2,7 @@
 
 ***500 AI Machine learning Deep learning Computer vision NLP Projects* !!!**
 
-![]()
+![](https://raw.githubusercontent.com/CodingRanjith/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects/refs/heads/main/images/tech.jpg)
 
 Follow me on LinkedIn : [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coding-ranjith/)
 
